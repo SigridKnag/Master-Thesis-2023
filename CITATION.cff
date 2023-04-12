@@ -1,0 +1,26 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Seagrass_vs_Seaweed detection_trail_MT_2023
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Sigrid
+    family-names: Knag
+    email: sigridknagen@gmail.com
+    name-particle: Sigrid
+    affiliation: Data Science - Geoinformatics
+identifiers:
+  - type: other
+    value: MasterThesis_2023_SK.ipynb
+    description: 'Code for master thesis '
+repository-code: >-
+  https://github.com/SigridKnag/Master-Thesis-2023/blob/41d43ec29a4a981542de3c94de187532f963027f/MasterThesis_2023_SK.ipynb
+abstract: Code for master thesis at NMBU 2023.
+keywords:
+  - 'Data Science, GEE, Seagrass, Seaweed'
+version: '1'
+date-released: '2023-04-12'
